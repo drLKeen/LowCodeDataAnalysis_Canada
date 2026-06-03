@@ -1,4 +1,4 @@
-# NASA Aircraft Low Code
+# Aircraft Low Code
 
 Demo materials used in the Low Code Data Analysis seminar.
 
@@ -12,3 +12,7 @@ MATLAB, Statistics and Machine Learning Toolbox
 ## Relevant industries
 
 All
+
+## Contact
+Laura Keen - lkeen@mathworks.com
+Paul Nihill - pnihill@mathworks.com
